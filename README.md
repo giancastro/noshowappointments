@@ -2,3 +2,24 @@
 <b>Data Science I, Foundation Nanodegree Program Udacity - Final Project Submission (Investigate a Dataset: No-show appointments)</b> 
 
 This project consisted to analyze a dataset and then communicate findings about it. Was use Python libraries like NumPy, Pandas, Matplotlib, Seaborn, Io and Requests.
+
+This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment. A number of characteristics about the patient are included in each row.
+
+Dataframe URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv
+
+Data Dictionary
+
+-PatientId - Identification of a patient.
+-AppointmentID - Identification of each appointment.
+-Gender = Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man.
+-AppointmentDay = The day of the actuall appointment, when they have to visit the doctor.
+-ScheduledDay = The day someone called or registered the appointment, this is before appointment of course.
+-Age = How old is the patient.
+-Neighbourhood = Where the appointment takes place.
+-Scholarship = Ture of False . Observation, this is a broad topic, consider reading this article https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia.
+-Hipertension = True or False.
+-Diabetes = True or False.
+-Alcoholism = True or False.
+-Handcap = True or False.
+-SMS_received = 1 or more messages sent to the patient.
+-No-show = True or False.
