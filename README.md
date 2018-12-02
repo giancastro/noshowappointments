@@ -7,8 +7,8 @@ This dataset collects information from 100k medical appointments in Brazil and i
 
 Dataframe URL: https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv
 
-Data Dictionary
 <UL>
+Data Dictionary:
 <LI>PatientId - Identification of a patient;</LI>
 <LI>AppointmentID - Identification of each appointment;</LI>
 <LI>Gender = Male or Female . Female is the greater proportion, woman takes way more care of they health in comparison to man;</LI>
